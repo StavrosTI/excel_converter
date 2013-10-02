@@ -1,1 +1,0 @@
-Loading Excel source file... 'DataSource.xlsx'\t09:58:05\n - 10-02-2013 09:58:05Excel source loaded... 	09:58:08\n - 10-02-2013 09:58:08
