@@ -1,0 +1,51 @@
+body {
+  font-family: helvetica, calibri, arial, 'sans serif';
+  font-size: 1em;
+  color: #333333;
+}
+
+h1 {
+	font-size: 1.2em;
+}
+h2 {
+	font-size: .8em;
+}
+h3 {
+}
+h4 {}
+h5 {}
+h6 {}
+
+p {
+	font-weight: 100;
+	
+hr {}
+
+div.msg-info {
+  color: #6F8A9F;
+  font-style: italic;
+}
+
+div.msg-success {
+  color: #2C922C;
+}
+
+div.msg-warn {
+  color: #C25305;
+}
+
+div.msg-error {
+  padding: 5px;
+  color: #990000;
+  font-weight: 900;
+}
+
+div.output-links {
+
+}
+
+a {}
+a:link {}
+a:visited {}
+a:hover {}
+a:active {}
